@@ -1,10 +1,10 @@
 [project]
 name = "funlog-tau"
-version = "0.1.3"
+version = "0.1.4"
 description = "funlog"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [ "loguru>=0.7.3",]
 [[project.authors]]
 name = "niuliangtao"
 email = "farfarfun@qq.com"
