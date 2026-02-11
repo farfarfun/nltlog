@@ -1,0 +1,13 @@
+[project]
+name = "fun-log"
+version = "0.1.1"
+description = "funlog"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+[[project.authors]]
+name = "niuliangtao"
+email = "farfarfun@qq.com"
+
+[tool.setuptools]
+license-files = []
