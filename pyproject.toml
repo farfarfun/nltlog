@@ -1,9 +1,9 @@
 [project]
 name = "funlog-tau"
-version = "0.1.5"
+version = "0.1.6"
 description = "funlog"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.7"
 dependencies = [ "loguru>=0.7.3",]
 [[project.authors]]
 name = "niuliangtao"
