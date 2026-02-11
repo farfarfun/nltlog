@@ -1,6 +1,6 @@
 [project]
-name = "fun-log"
-version = "0.1.1"
+name = "far-funlog"
+version = "0.1.2"
 description = "funlog"
 readme = "README.md"
 requires-python = ">=3.13"
