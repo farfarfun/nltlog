@@ -1,6 +1,6 @@
 [project]
-name = "funlog-tau"
-version = "1.0.2"
+name = "taulog"
+version = "1.0.3"
 description = "funlog"
 readme = "README.md"
 requires-python = ">=3.5"
