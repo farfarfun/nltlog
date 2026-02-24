@@ -1,6 +1,6 @@
 [project]
 name = "nltlog"
-version = "1.0.12"
+version = "1.0.13"
 description = "nltlog"
 readme = "README.md"
 requires-python = ">=3.6"
