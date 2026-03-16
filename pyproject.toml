@@ -1,7 +1,7 @@
 [project]
-name = "taulog"
-version = "1.1.1"
-description = "taulog"
+name = "nltlog"
+version = "1.1.2"
+description = "nltlog"
 readme = "README.md"
 requires-python = ">=3.6"
 dependencies = [ "loguru>=0.7.3",]
